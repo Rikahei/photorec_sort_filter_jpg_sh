@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set the source and destination directories
-source_dir="/Users/hei/ssd_backup"
-destination_dir="/Users/hei/ssd_backup/filtered_files"
+source_dir=""
+destination_dir="/filtered_files"
 # Filter file size greater than KB
 file_size=512000
 
