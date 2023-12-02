@@ -10,7 +10,9 @@ The script is code created by [ChatGPT 3.5](https://openai.com/blog/chatgpt)
 
 Make the Script Executable: 
 
-```chmod +x script_name.sh```
+```
+chmod +x script_name.sh
+```
 
 Change folder dir recovered from PhotoRec
 ```
